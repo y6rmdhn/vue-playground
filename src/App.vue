@@ -11,7 +11,7 @@
 
   <main>
     <h1>Hello World!</h1>
-    <p>Maghfira</p>
+    <p>fira</p>
   </main>
 </template>
 
