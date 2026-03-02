@@ -1,5 +1,7 @@
 <script setup>
+import CompositionComponent from './components/CompositionComponent.vue'
 import MainButton from './components/MainButton.vue'
+import OptionsComponent from './components/OptionsComponent.vue'
 
 const name = 'fira'
 </script>
@@ -9,6 +11,8 @@ const name = 'fira'
     <h1>Hello World!</h1>
     <p>{{ name }}</p>
     <MainButton />
+    <OptionsComponent />
+    <CompositionComponent />
   </main>
 </template>
 
